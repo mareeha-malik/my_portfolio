@@ -16,7 +16,7 @@ export default function Footer() {
           className="flex flex-col sm:flex-row justify-between items-center"
         >
           <p className="text-muted-foreground text-sm mb-4 sm:mb-0">
-            © {currentYear} Jane Doe. All rights reserved.
+            © {currentYear} Awais Malik. All rights reserved.
           </p>
           
           <div className="flex items-center space-x-4">
